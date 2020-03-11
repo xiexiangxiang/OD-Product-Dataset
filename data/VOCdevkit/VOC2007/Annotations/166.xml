@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>166.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/166.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tinges Roll Chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>47</ymin>
+			<xmax>491</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>410.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/410.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thai Milk Tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>412</ymin>
+			<xmax>549</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,50 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>112.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/112.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sunshine Belgium Chocolate Wholemeal Cream Bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>182</ymin>
+			<xmax>585</xmax>
+			<ymax>737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tinges Roll Sweet Corn</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>24</ymin>
+			<xmax>600</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Star Tidbits Mixer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>197</ymin>
+			<xmax>374</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>

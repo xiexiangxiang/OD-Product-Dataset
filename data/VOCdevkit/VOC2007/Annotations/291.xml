@@ -1,0 +1,50 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>291.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>McVitie's Ginger Cookies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>296</ymin>
+			<xmax>342</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mcvitie's Digestive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>414</ymin>
+			<xmax>497</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>McVitie's Wholewheat Marie</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>469</ymin>
+			<xmax>307</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

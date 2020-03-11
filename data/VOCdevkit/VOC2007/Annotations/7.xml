@@ -1,0 +1,86 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>7.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>McVitie's Wholewheat Marie</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>419</ymin>
+			<xmax>346</xmax>
+			<ymax>730</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pringles Original</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>94</ymin>
+			<xmax>327</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dayplus Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>175</ymin>
+			<xmax>281</xmax>
+			<ymax>484</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mocha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>248</ymin>
+			<xmax>567</xmax>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fruit Tree Yuzu Mixed Juice Drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>384</ymin>
+			<xmax>437</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sunshine Belgium Chocolate Wholemeal Cream Bun</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>1</ymin>
+			<xmax>600</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

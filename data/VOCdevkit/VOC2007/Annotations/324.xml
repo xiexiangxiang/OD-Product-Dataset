@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>324.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/324.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Marigold Peel Fresh Pink Guava Juice Drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>441</ymin>
+			<xmax>524</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

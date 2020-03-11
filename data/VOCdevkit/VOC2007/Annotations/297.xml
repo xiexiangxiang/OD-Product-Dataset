@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>297.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fruit Tree Yuzu Mixed Juice Drink</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>154</ymin>
+			<xmax>552</xmax>
+			<ymax>588</ymax>
+		</bndbox>
+	</object>
+</annotation>

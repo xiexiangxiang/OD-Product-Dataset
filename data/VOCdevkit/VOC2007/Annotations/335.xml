@@ -1,0 +1,50 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>335.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/335.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ShoyueMi Spicy Flavoured Snacks</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>127</ymin>
+			<xmax>268</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Star Tidbits 'O' Ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>117</ymin>
+			<xmax>497</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Star Tidbits Mixer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>242</xmin>
+			<ymin>334</ymin>
+			<xmax>599</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

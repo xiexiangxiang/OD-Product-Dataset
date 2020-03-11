@@ -1,0 +1,62 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>349.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Carr's Ginger Lemon Cremes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>135</ymin>
+			<xmax>600</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Star Tidbits 'O' Ring</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>277</ymin>
+			<xmax>435</xmax>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tinges Roll Chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>351</ymin>
+			<xmax>599</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Star Tidbits Mixer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>493</ymin>
+			<xmax>443</xmax>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+</annotation>

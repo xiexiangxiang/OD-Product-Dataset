@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>80.jpg</filename>
+	<path>/Users/xiexiangxiang/OD-Product-Dataset/data/VOCdevkit/VOC2007/ImageSets/80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dayplus Banana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>319</ymin>
+			<xmax>389</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tinges Roll Chocolate</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>513</ymin>
+			<xmax>600</xmax>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+</annotation>
