@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [How to train an object detection model with mmdetection](https://www.dlology.com/blog/how-to-train-an-object-detection-model-with-mmdetection/) | DLology blog
 
 ## Quick start
@@ -15,3 +16,6 @@ Train with custom COCO dataset.
 Further instruction on how to create your own datasets, read the tutorials
 - [How to train an object detection model with mmdetection](https://www.dlology.com/blog/how-to-train-an-object-detection-model-with-mmdetection/) - Custom Pascal VOC dataset.
 - [How to create custom COCO data set for object detection](https://www.dlology.com/blog/how-to-create-custom-coco-data-set-for-object-detection/) - Custom COCO dataset.
+=======
+# OD-Product-Dataset
+>>>>>>> be5ffa5750cb0f3164ff533ad5bd4c0951d620d5
